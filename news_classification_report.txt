@@ -1,0 +1,11 @@
+=== NewsSense: TF-IDF + Logistic Regression (Test) ===
+
+              precision    recall  f1-score   support
+
+        True     0.9874    0.9897    0.9886      4284
+        Fake     0.9906    0.9885    0.9896      4696
+
+    accuracy                         0.9891      8980
+   macro avg     0.9890    0.9891    0.9891      8980
+weighted avg     0.9891    0.9891    0.9891      8980
+

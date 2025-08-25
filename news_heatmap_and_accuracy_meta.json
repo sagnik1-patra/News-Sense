@@ -1,0 +1,22 @@
+{
+  "columns_available": [
+    "title",
+    "text",
+    "subject",
+    "date",
+    "label"
+  ],
+  "engineered_features": [
+    "title_len",
+    "text_len",
+    "num_exclaim",
+    "num_question",
+    "num_urls",
+    "num_digits",
+    "upper_ratio",
+    "label"
+  ],
+  "epochs": 12,
+  "train_size": 35918,
+  "test_size": 8980
+}
